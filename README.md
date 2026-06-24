@@ -78,6 +78,6 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Shubhi-Gupta19/Shubhi-Gupta19/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/Shubhi-Gupta19/snake-output/snake.svg" alt="Snake animation" />
 
 ###
