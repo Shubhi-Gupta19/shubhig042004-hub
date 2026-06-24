@@ -11,6 +11,12 @@
 
 ###
 
+<div data-importer="image" align="right">
+  <img data-importer="image" height="200" src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif"  />
+</div>
+
+###
+
 <p data-importer="text" align="left">🔭 I’m currently Student: Pursuing MCA in Cloud Computing<br>🌱 I’m currently learning from Microsoft<br>👯 I’m looking to collaborate on ...<br>🤔 I’m looking for help with AI<br>💬 Ask me about AI<br>📫 How to reach me: shubhig042004@gmail.com</p>
 
 ###
@@ -78,3 +84,5 @@
 ###
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/Shubhi-Gupta19/Shubhi-Gupta19/snake-output/snake.svg" alt="Snake animation" />
+
+###
